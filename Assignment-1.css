@@ -1,0 +1,25 @@
+/* inline and internal css are written in the adjacent HTML file */
+/* EXTERNAL CSS */
+p {
+    background-color: azure;
+}
+
+h1 {
+    color: seagreen;
+}
+
+.firstpara {
+    background-color: mediumaquamarine;
+}
+
+#inline {
+    font-family: cursive;
+}
+
+.check {
+    background-color: white;
+}
+
+.code {
+    background-color: lightyellow;
+}
